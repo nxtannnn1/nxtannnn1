@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Tecnologias que estou explorando:
+### 🚀 Tecnologias
   
 - ⚙️ **Java / Spring Boot**  
 - 🗄️ **MySQL**  
