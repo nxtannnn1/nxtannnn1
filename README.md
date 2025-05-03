@@ -1,7 +1,8 @@
 Olá! 👋 Eu sou Natan William
 
-💻 Técnico em Desenvolvimento de Sistemas  
-🔧 Técnico em Engenharia Clínica 
+💻 Técnico em Desenvolvimento de Sistemas
+
+🔧 Técnico em Engenharia Clínica
 
 🧠 Estudando programação, automação e soluções inteligentes
 
