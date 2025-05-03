@@ -17,7 +17,7 @@
 
 ### 💬 Vamos trocar ideia?
 
-Me chama aqui pelo GitHub mesmo ou no [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/natan-tech/))
+Me chama aqui pelo GitHub mesmo ou no [LinkedIn](https://www.linkedin.com/in/natan-tech/). 
 
 ---
 
