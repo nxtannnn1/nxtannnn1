@@ -12,14 +12,12 @@
   
 - ⚙️ **Java / Spring Boot**  
 - 🗄️ **MySQL**  
-- 🤖 **Automação com Arduino / Tinkercad**  
-- 🧠 **Lógica de Programação / Projetos Técnicos**
 
 ---
 
 ### 💬 Vamos trocar ideia?
 
-Me chama aqui pelo GitHub mesmo ou no [LinkedIn](https://www.linkedin.com/) (coloca seu link real lá 😉). Curto conversar sobre programação, automação e inovações que conectam tecnologia com a vida real.
+Me chama aqui pelo GitHub mesmo ou no [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/natan-tech/))
 
 ---
 
