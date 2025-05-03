@@ -21,6 +21,4 @@ Me chama aqui pelo GitHub mesmo ou no [LinkedIn](https://www.linkedin.com/in/nat
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natanwss&show_icons=true&theme=tokyonight" alt="Natan's GitHub Stats" />
-</p>
+
