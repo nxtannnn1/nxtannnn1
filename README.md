@@ -3,7 +3,7 @@
 <p align="center">
 💻 <strong>Técnico em Desenvolvimento de Sistemas</strong> <br>
 🔧 <strong>Técnico em Engenharia Clínica</strong> <br>
-🧠 Estudando programação, automação e soluções inteligentes
+🧠 <strong>Estudando programação, automação e soluções inteligentes </strong>
 </p>
 
 ---
