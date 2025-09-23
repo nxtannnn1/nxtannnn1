@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 <strong>Técnico em Desenvolvimento de Sistemas</strong> <br>
-🔧 <strong>Técnico em Engenharia Clínica</strong> <br>
+🔧 <strong>Técnico em Eletrotécnica</strong> <br>
 🧠 <strong>Estudando programação, automação e soluções inteligentes </strong>
 </p>
 
