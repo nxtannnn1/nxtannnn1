@@ -1,21 +1,32 @@
-<h1 align="center">Natan William de Santana Silva</h1>
+# Natan William de Santana Silva
 
-<p align="center">
-💻 <strong>Técnico em Desenvolvimento de Sistemas</strong> <br>
-🔧 <strong>Técnico em Eletrotécnica</strong> <br>
-🧠 <strong>Estudando programação, automação e soluções inteligentes </strong>
-</p>
+💻 **Técnico em Desenvolvimento de Sistemas**
+🔧 **Técnico em Eletrotécnica**
+⚙️ **Desenvolvimento, automação, infraestrutura e otimização de processos**
+
+Tenho interesse em oportunidades que envolvam **desenvolvimento, automação, dados, infraestrutura e integração de sistemas**.
 
 ---
 
-### 🚀 Tecnologias
-  
-- ⚙️ **Java / Spring Boot**  
-- 🗄️ **MySQL**  
+### 🚀 Tecnologias & Ferramentas
+
+* ☕ **Java / Spring Boot**
+* 🐳 **Docker**
+* ☸️ **Kubernetes**
+* 🔄 **n8n / Automação de processos**
+* 🗄️ **SQL / MySQL**
+* ☁️ **Cloud & Infraestrutura**
+* 🔗 **Integrações e APIs**
+* 🏢 **Ecossistema Microsoft / SharePoint / Power Platform**
+
+---
+
+### 🧠 Atualmente explorando
+
+**DevOps • Cloud • Automação • Integração de sistemas • Otimização de processos • Arquitetura de aplicações**
 
 ---
 
 ### 💬 Vamos trocar ideia?
 
-Me chama aqui pelo GitHub mesmo ou no [LinkedIn](https://www.linkedin.com/in/natan-tech/). 
-
+Se quiser conversar sobre tecnologia, automação, desenvolvimento ou algum projeto, pode me chamar por aqui ou pelo [LinkedIn](https://www.linkedin.com/in/natan-tech/).
